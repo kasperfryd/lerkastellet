@@ -1,4 +1,4 @@
-import { ImageWithFallback } from "./figma/ImageWithFallback";
+import { ImageWithFallback } from "./custom/ImageWithFallback";
 import coverImage from "../../assets/Collage_result_small.webp";
 import coverImageLarge from "../../assets/Collage_wide_result_large.webp";
 import logo from "../../assets/icons/Lerkastellet-2.png";

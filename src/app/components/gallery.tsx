@@ -1,5 +1,5 @@
 import { useState, useEffect, useRef } from "react";
-import { ImageWithFallback } from "./figma/ImageWithFallback";
+import { ImageWithFallback } from "./custom/ImageWithFallback";
 import { X } from "lucide-react";
 import { contentfulClient } from "../data/contentfulClient";
 /* 

@@ -1,4 +1,4 @@
-import { ImageWithFallback } from "./figma/ImageWithFallback";
+import { ImageWithFallback } from "./custom/ImageWithFallback";
 import logo1 from "../../assets/icons/environment_logo.png";
 import logo2 from "../../assets/icons/homemade_logo.png";
 import logo3 from "../../assets/icons/timeless_logo.png";
