@@ -25,10 +25,10 @@ export function Hero() {
       {/* Content */}
       <div className='relative z-10 text-center px-4 w-full mx-auto md-auto bg-white/20 py-8 rounded-md'>
         <h1 className='text-5xl sm:text-4xl md:text-5xl lg:text-7xl text-neutral-800 mb-6 tracking-tight'>
-          Keramik med sjæl
+          Lerkastellet
         </h1>
         <p className='text-neutral-800 max-w-2xl mx-auto mb-8 text-base sm:text-lg md:text-xl'>
-          Lerkastellet skaber unikke, håndlavede keramikstykker.
+          Håndlavede keramikstykker.
         </p>
         <button
           onClick={() => {
