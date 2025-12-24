@@ -1,13 +1,9 @@
+# Lerkastellet frontend
 
-  # Ceramic Products Showcase Website
+A site build for a ceramic site to showcase products
 
-  This is a code bundle for Ceramic Products Showcase Website. The original project is available at https://www.figma.com/design/zhm4zWZRePpVgo6ld9JbVR/Ceramic-Products-Showcase-Website.
+## Running the code
 
-  ## Running the code
+Run `npm i` to install the dependencies.
 
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
-  # lerkastellet
-# lerkastellet
-# lerkastellet
+Run `npm run dev` to start the development server.
